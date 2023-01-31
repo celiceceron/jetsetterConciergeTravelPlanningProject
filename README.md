@@ -2,7 +2,7 @@
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/celiceceron/jetsetterConciergeTravelPlanningProject/blob/master/licence)
 
 # About the project
-This project was developed to practice Responsive Web Design. <br>
+This project is part of Codecademy's Bootcamp. During the studies on HTML fundamentals, the site was created to demonstrate Responsive Web Design practice. <br>
 https://jetsetterconciergetravelplanningproje.netlify.app/
 
 ## Gif Demonstration
