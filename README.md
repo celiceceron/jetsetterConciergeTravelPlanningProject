@@ -5,7 +5,7 @@
 This project is part of Codecademy's Bootcamp. During the studies on HTML fundamentals, the site was created to demonstrate Responsive Web Design practice. <br>
 https://jetsetterconciergetravelplanningproje.netlify.app/
 
-## Gif Demonstration
+## Gif demonstration
 ![Web 1](https://github.com/celiceceron/jetsetterConciergeTravelPlanningProject/blob/35f9e0cf5946fb032f4842022ecfb2dc2ff968a1/web%20page.gif)
 
 # Technologies and tools I use
