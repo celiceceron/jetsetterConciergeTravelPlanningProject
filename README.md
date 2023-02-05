@@ -10,7 +10,7 @@ https://jetsetterconciergetravelplanningproje.netlify.app/
 
 # Technologies and tools I use
 ## Front end
-- HTML
+- HTML5
 - CSS
 - Responsive Web Design
 
